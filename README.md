@@ -16,4 +16,12 @@
 
 -Aprendimos a hacer una nueva rama en el repositorio clonado (luego de la invitación del dueño del repositorio).
 
--Aprendimos a hacer una carpeta en la rama que creamos y hacer un push request.
+-Aprendimos a hacer un archivo en la rama que creamos y hacer un push request.
+
+### Tercera clase
+
+-Aprendimos a hacer un directorio en nuestra rama
+
+-Aprendimos a modificar los directorios y los archivos de lugar
+
+-Aprendimos qué es un markdown o .md y para qué se usa
