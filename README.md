@@ -1,6 +1,8 @@
-# Aprendiendo a usar GitHub
+# Diplomatura en Ciencia de Datos con Python y R
 
-## Primera clase de la nivelacion de GitHub de la diplomatura de Ciencia de Datos con Python y R
+## Nivelación GitHub
+
+### Primera clase
 
 -Aprendimos a instalar Git en la PC, a hacer una cuenta en GitHub y a crear un repositorio.
 
